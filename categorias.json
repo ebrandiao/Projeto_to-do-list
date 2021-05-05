@@ -1,0 +1,36 @@
+{
+    "categorias": [
+        {
+            "id": "0",
+            "descricao": "Material de escritório"
+        },
+        {
+            "id": "1",
+            "descricao": "Material de informática"
+        },
+        {
+            "id": "2",
+            "descricao": "Material de higiene"
+        },
+        {
+            "id": "3",
+            "descricao": "Rancho"
+        },
+        {
+            "id": "4",
+            "descricao": "Material de segurança (EPI)"
+        },
+        {
+            "id": "5",
+            "descricao": "Material hidráulico"
+        },
+        {
+            "id": "6",
+            "descricao": "Material elétrico"
+        },
+        {
+            "id": "7",
+            "descricao": "Material metal mecânico"
+        }
+    ]
+}

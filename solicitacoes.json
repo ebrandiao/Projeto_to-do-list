@@ -1,0 +1,20 @@
+{
+    "solicitacoes": [
+        {
+            "id": "0",
+            "descricao": "UN-BC",
+            "idCategoria": "2",
+            "idMaterial": "1",
+            "idQtde": "1",
+            "alerta": "ligado"
+        },
+        {
+            "id": "1",
+            "descricao": "UN-AM",
+            "idCategoria": "3",
+            "idMaterial": "2",
+            "idQtde": "1",
+            "alerta": "ligado"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "material": [
+        {
+            "id": "0",
+            "descricao": "Caneta BIC - azul"
+        },
+        {
+            "id": "1",
+            "descricao": "Multimetro"
+        }
+    ]
+}
