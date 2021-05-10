@@ -1,1 +1,1 @@
-# Projeto_to-do-list
+# Projeto inicial - solicitação de cotação de compras de pequeno valor
